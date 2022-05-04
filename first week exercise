@@ -1,0 +1,8 @@
+num1 = float(input('Enter your first number: '))
+num2 = float(input('Enter your second number: '))
+avg= (num1 + num2)/2
+subtraction = abs(num1-num2)
+summation = (num1+num2)
+print ('your average = %0.2f' % avg)
+print ('absolute subtraction of two numbers = %0.2f' %subtraction)
+print ('sum of two numbers = %0.2f' %summation)
